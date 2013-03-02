@@ -1,4 +1,5 @@
 Linux
 =====
 
-my system configure
+my system configure on ubuntu 12.04
+
